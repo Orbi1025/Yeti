@@ -25640,7 +25640,7 @@ const u_ = "/assets/Video_Project_7_1766398918170-BdtDgA2K.mp4",
   c_ = "/assets/vid_1766317849435-DzgGiGk6.mp4",
   f_ = "/assets/vid2_1766399222635-pycPggCJ.mp4",
   d_ = "/assets/image_1765380251339-BZPLhogb.png",
-  p0 = "0xcomingsoon";
+  p0 = "0xef2291759bd1ad57d6f5492b16263a248babdc07";
 function h_() {
   const { toast: n } = L0(),
     [i, s] = S.useState(!1),
@@ -25799,7 +25799,7 @@ function h_() {
               className: "flex flex-wrap justify-center gap-4 w-full",
               children: [
                 N.jsx(yi.a, {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xef2291759bd1ad57d6f5492b16263a248babdc07",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className: "cursor-pointer",
@@ -25814,7 +25814,7 @@ function h_() {
                   }),
                 }),
                 N.jsx(yi.a, {
-                  href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                  href: "https://dexscreener.com/ethereum/0xef2291759bd1ad57d6f5492b16263a248babdc07",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className: "cursor-pointer",
