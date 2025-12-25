@@ -1341,6 +1341,9 @@
   .bg-\[\#87E4A6\] {
     background-color: #87e4a6;
   }
+  .bg-\[\#17c6f8\] {
+    background-color: #17c6f8;
+  }
   .bg-\[--color-bg\] {
     background-color: --color-bg;
   }
@@ -2189,6 +2192,12 @@
     }
     .hover\:bg-\[\#6edc93\]:hover {
       background-color: #6edc93;
+    }
+    .hover\:bg-\[\#17c6f8\]:hover {
+      background-color: #17c6f8;
+    }
+    .hover\:bg-\[\#0f9ac2\]:hover {
+      background-color: #0f9ac2;
     }
     .hover\:bg-gray-100:hover {
       background-color: var(--color-gray-100);
